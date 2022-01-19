@@ -7,6 +7,6 @@ namespace Proiect_Magazin.Models
 {
     public class People
     {
-
+        char c;
     }
 }
